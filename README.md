@@ -37,8 +37,6 @@ Run the executable and choose from the menu:
 GitHub: https://github.com/Psych3-N1x
 Discord: https://discord.gg/GsARdNqSVh
 
-// ...existing code...
-
 ## License
 
 This project is licensed under MIT License
